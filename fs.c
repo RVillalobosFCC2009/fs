@@ -15,3 +15,4 @@ printf(buf);
 printf("\n");
 exit(0);
 }
+}
